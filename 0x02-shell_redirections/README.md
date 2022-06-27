@@ -1,1 +1,1 @@
-File 4-lastlines displays the last 10 lines of /etc/passwd.
+File 5-firstlines displays the first 10 lines of /etc/passwd.
